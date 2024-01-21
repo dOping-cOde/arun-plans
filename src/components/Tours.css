@@ -1,0 +1,31 @@
+.tour {
+    text-align: center;
+  }
+  
+  .head {
+    margin-top: 20px;
+  }
+  
+  .card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  /* Style for Card component */
+  .card {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    width: 500px; /* Adjust the width as needed */
+    height:600px;
+  }
+  
+  .card img {
+    width: 500px;
+    height: 300px;
+  }
+  
+  /* Add more styles as needed */
+  
